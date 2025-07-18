@@ -1,0 +1,48 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+NON-DISCLOSURE AGREEMENT
+
+This Agreement is made on {{ date }} between:
+
+**Party 1**: {{ party1_name }}  
+**Address**: {{ party1_address }}
+
+**Party 2**: {{ party2_name }}  
+**Address**: {{ party2_address }}
+
+This Non-Disclosure Agreement ("Agreement") is entered into on {{ date }} between:
+
+**{{ party1 }}**, having its principal place of business at {{ party1_address }},  
+and  
+**{{ party2 }}**, having its principal place of business at {{ party2_address }}.
+
+1. **Confidential Information**  
+   The parties agree to exchange certain confidential and proprietary information ("Confidential Information") for the purpose of evaluating a potential business relationship.
+
+2. **Obligations of Receiving Party**  
+   The receiving party agrees to:
+   - Maintain the confidentiality of the Confidential Information
+   - Not disclose it to any third party without the prior written consent of the disclosing party
+   - Use the Confidential Information solely for the permitted purpose
+
+3. **Exclusions**  
+   Confidential Information does not include information that:
+   - Is or becomes publicly available through no fault of the receiving party
+   - Was already known to the receiving party prior to disclosure
+   - Is independently developed by the receiving party
+
+4. **Term**  
+   This Agreement shall remain in effect for a period of two (2) years from the date of execution.
+
+5. **Governing Law**  
+   This Agreement shall be governed by and construed in accordance with the laws of the applicable jurisdiction.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Signed:
+
+__________________________  
+{{ party1 }}
+
+__________________________  
+{{ party2 }}

@@ -1,0 +1,51 @@
+Here is the polished and formatted document:
+
+**NON-DISCLOSURE AGREEMENT (NDA)**
+
+**THIS NON-DISCLOSURE AGREEMENT ("AGREEMENT") IS ENTERED INTO ON JULY 17, 2025**
+
+**BETWEEN:**
+
+**Party 1:** Alice
+**Address:** 123 Main St, NY
+
+**Party 2:** Bob
+**Address:** 456 Park Ave, LA
+
+**ARTICLE 1: CONFIDENTIAL INFORMATION**
+
+The parties agree to exchange certain confidential and proprietary information ("Confidential Information") for the purpose of evaluating a potential business relationship.
+
+**ARTICLE 2: OBLIGATIONS OF RECEIVING PARTY**
+
+The receiving party agrees to:
+
+* Maintain the confidentiality of the Confidential Information
+* Not disclose it to any third party without the prior written consent of the disclosing party
+* Use the Confidential Information solely for the permitted purpose
+
+**ARTICLE 3: EXCLUSIONS**
+
+Confidential Information does not include information that:
+
+* Is or becomes publicly available through no fault of the receiving party
+* Was already known to the receiving party prior to disclosure
+* Is independently developed by the receiving party
+
+**ARTICLE 4: TERM**
+
+This Agreement shall remain in effect for a period of two (2) years from the date of execution.
+
+**ARTICLE 5: GOVERNING LAW**
+
+This Agreement shall be governed by and construed in accordance with the laws of the applicable jurisdiction.
+
+**IN WITNESS WHEREOF, THE PARTIES HAVE EXECUTED THIS AGREEMENT AS OF THE DATE FIRST WRITTEN ABOVE.**
+
+**Signed:**
+
+Alice
+123 Main St, NY
+
+Bob
+456 Park Ave, LA

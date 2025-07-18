@@ -1,0 +1,41 @@
+# Core AI Orchestration and LLM Frameworks
+langgraph
+langchain
+langchain-core
+langchain-community
+langsmith
+
+# Streamlit App
+streamlit
+
+# LLM Providers
+openai
+huggingface_hub
+transformers
+
+# Document Processing
+pypdf
+python-docx
+jinja2
+
+# Text Tokenization
+tiktoken
+
+# Data Handling
+pandas
+numpy
+
+# Config & Environment Management
+python-dotenv
+pydantic-settings
+PyYAML
+
+# Networking & Async Support
+aiohttp
+httpx-sse
+requests
+tenacity
+
+# Serialization / ORM
+dataclasses-json
+SQLAlchemy

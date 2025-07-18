@@ -1,0 +1,12 @@
+Dear {{ recipient_name }},
+
+We are pleased to offer you the position of {{ role }} at our company.
+
+Start Date: {{ start_date }}
+Salary: ₹{{ salary }} per annum
+Location: {{ location }}
+
+Please sign this letter as confirmation of your acceptance.
+
+Sincerely,  
+HR Department
